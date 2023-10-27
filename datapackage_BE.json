@@ -23,7 +23,7 @@
             },
             {
                 "model": "remind",
-                "pathway": "SSP2-RCP19"
+                "pathway": "SSP1-RCP19"
             }
         ],
         "RUN 32 ELC": [
@@ -33,7 +33,7 @@
             },
             {
                 "model": "image",
-                "pathway": "SSP2-RCP19"
+                "pathway": "SSP1-RCP19"
             }
         ],
         "RUN 32 MOL": [
@@ -43,7 +43,7 @@
             },
             {
                 "model": "image",
-                "pathway": "SSP2-RCP19"
+                "pathway": "SSP1-RCP19"
             }
         ]
     },
