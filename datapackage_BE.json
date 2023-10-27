@@ -5,8 +5,8 @@
     "description": "Implementation of 3 paths to carbon-netrality in Belgium until 2050",
     "version": "0.0.1",
     "contributors":[{
-    "title": "Dominik Huber",
-    "email": "dominik.huber@vub.be"
+    "title": "Romain Sacchi",
+    "email": "r_s@me.com"
     }],
     "dependencies": {
         "premise": ">=1.7.3"
