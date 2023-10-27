@@ -23,7 +23,7 @@
             },
             {
                 "model": "remind",
-                "pathway": "SSP1-RCP19"
+                "pathway": "SSP1-PkBudg500"
             }
         ],
         "RUN 32 ELC": [
@@ -32,8 +32,8 @@
                 "pathway": "SSP2-Base"
             },
             {
-                "model": "image",
-                "pathway": "SSP1-RCP19"
+                "model": "remind",
+                "pathway": "SSP1-PkBudg500"
             }
         ],
         "RUN 32 MOL": [
@@ -42,8 +42,8 @@
                 "pathway": "SSP2-Base"
             },
             {
-                "model": "image",
-                "pathway": "SSP1-RCP19"
+                "model": "remind",
+                "pathway": "SSP1-PkBudg500"
             }
         ]
     },
