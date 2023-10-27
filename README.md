@@ -1,4 +1,4 @@
-# energy-paths-2050-Belgium
+# The Power of Prospectives: Belgiums PATHS2050
 
 This respository builds a user-defined, prospective scenario in PREMISE for the energy perspectives "PATHS2050" in Belgium.
 Further descriptions of the three scenarios are available here: https://perspective2050.energyville.be/.
