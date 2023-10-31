@@ -2,13 +2,13 @@
 # Energy outlook PATHS2050
 # https://perspective2050.energyville.be/
 production pathways:
-#   biogas:
-#     production volume:
-#       variable: Production|Electricity|Renewable|Biogas
-#     ecoinvent alias:
-#       name: heat and power co-generation, biogas, gas engine
-#       reference product: electricity, high voltage
-#       exists in original database: True
+  biogas:
+    production volume:
+      variable: Production|Electricity|Renewable|Biogas
+    ecoinvent alias:
+      name: heat and power co-generation, biogas, gas engine
+      reference product: electricity, high voltage
+      exists in original database: True
 
 #   biomass:
 #     production volume:
