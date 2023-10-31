@@ -2,361 +2,361 @@
 # Energy outlook PATHS2050
 # https://perspective2050.energyville.be/
 production pathways:
-  biogas:
-    production volume:
-      variable: Production|Electricity|Renewable|Biogas
-    ecoinvent alias:
-      name: heat and power co-generation, biogas, gas engine
-      reference product: electricity, high voltage
-      exists in original database: True
+#   biogas:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Biogas
+#     ecoinvent alias:
+#       name: heat and power co-generation, biogas, gas engine
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  biomass:
-    production volume:
-      variable: Production|Electricity|Renewable|Biomass
-    ecoinvent alias:
-      name: heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014
-      reference product: electricity, high voltage
-      exists in original database: True
+#   biomass:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Biomass
+#     ecoinvent alias:
+#       name: heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  bagasse:
-    production volume:
-      variable: Production|Electricity|Renewable|Bagasse
-    ecoinvent alias:
-      name: treatment of bagasse, from sweet sorghum, in heat and power co-generation unit, 6400kW thermal
-      reference product: electricity, high voltage
-      exists in original database: True
+#   bagasse:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Bagasse
+#     ecoinvent alias:
+#       name: treatment of bagasse, from sweet sorghum, in heat and power co-generation unit, 6400kW thermal
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  biowaste:
-    production volume:
-      variable: Production|Electricity|Renewable|Biowaste
-    ecoinvent alias:
-      name: treatment of biowaste, municipal incineration
-      reference product: electricity, for reuse in municipal waste incineration only
-      exists in original database: True
+#   biowaste:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Biowaste
+#     ecoinvent alias:
+#       name: treatment of biowaste, municipal incineration
+#       reference product: electricity, for reuse in municipal waste incineration only
+#       exists in original database: True
 
-  blast_furnace:
-    production volume:
-      variable: Production|Electricity|Conventional|Blast-furnace
-    ecoinvent alias:
-      name: treatment of blast furnace gas, in power plant
-      reference product: electricity, high voltage
-      exists in original database: True
+#   blast_furnace:
+#     production volume:
+#       variable: Production|Electricity|Conventional|Blast-furnace
+#     ecoinvent alias:
+#       name: treatment of blast furnace gas, in power plant
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  coal_chp:
-    production volume:
-      variable: Production|Electricity|Conventional|Coal CHP
-    ecoinvent alias:
-      name: heat and power co-generation, hard coal
-      reference product: electricity, high voltage
-      exists in original database: True
+#   coal_chp:
+#     production volume:
+#       variable: Production|Electricity|Conventional|Coal CHP
+#     ecoinvent alias:
+#       name: heat and power co-generation, hard coal
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  oil_chp:
-    production volume:
-      variable: Production|Electricity|Conventional|Oil CHP
-    ecoinvent alias:
-      name: heat and power co-generation, oil
-      reference product: electricity, high voltage
-      exists in original database: True
+#   oil_chp:
+#     production volume:
+#       variable: Production|Electricity|Conventional|Oil CHP
+#     ecoinvent alias:
+#       name: heat and power co-generation, oil
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  municipal_waste:
-    production volume:
-      variable: Production|Electricity|Conventional|Municipal waste incineration
-    ecoinvent alias:
-      name: electricity, from municipal waste incineration to generic market for electricity, medium voltage
-      reference product: electricity, medium voltage
-      exists in original database: True
+#   municipal_waste:
+#     production volume:
+#       variable: Production|Electricity|Conventional|Municipal waste incineration
+#     ecoinvent alias:
+#       name: electricity, from municipal waste incineration to generic market for electricity, medium voltage
+#       reference product: electricity, medium voltage
+#       exists in original database: True
 
-  natural_gas_chp_400:
-    production volume:
-      variable: Production|Electricity|Conventional|Natural gas CHP|400MW electrical
-    ecoinvent alias:
-      name: heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical
-      reference product: electricity, high voltage
-      exists in original database: True
+#   natural_gas_chp_400:
+#     production volume:
+#       variable: Production|Electricity|Conventional|Natural gas CHP|400MW electrical
+#     ecoinvent alias:
+#       name: heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  natural_gas_chp_100:
-    production volume:
-      variable: Production|Electricity|Conventional|Natural gas CHP|100MW electrical
-    ecoinvent alias:
-      name: heat and power co-generation, natural gas, conventional power plant, 100MW electrical
-      reference product: electricity, high voltage
-      exists in original database: True
+#   natural_gas_chp_100:
+#     production volume:
+#       variable: Production|Electricity|Conventional|Natural gas CHP|100MW electrical
+#     ecoinvent alias:
+#       name: heat and power co-generation, natural gas, conventional power plant, 100MW electrical
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  natural_gas_ppt:
-    production volume:
-      variable: Production|Electricity|Conventional|Natural gas PPT
-    ecoinvent alias:
-      name: electricity production, natural gas, combined cycle power plant
-      reference product: electricity, high voltage
-      exists in original database: True
+#   natural_gas_ppt:
+#     production volume:
+#       variable: Production|Electricity|Conventional|Natural gas PPT
+#     ecoinvent alias:
+#       name: electricity production, natural gas, combined cycle power plant
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  oil_chp:
-    production volume:
-      variable: Production|Electricity|Conventional|Oil CHP
-    ecoinvent alias:
-      name: heat and power co-generation, oil
-      reference product: electricity, high voltage
-      exists in original database: True
+#   oil_chp:
+#     production volume:
+#       variable: Production|Electricity|Conventional|Oil CHP
+#     ecoinvent alias:
+#       name: heat and power co-generation, oil
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  oil_ppt:
-    production volume:
-      variable: Production|Electricity|Conventional|Oil PPT
-    ecoinvent alias:
-      name: electricity production, oil
-      reference product: electricity, high voltage
-      exists in original database: True
+#   oil_ppt:
+#     production volume:
+#       variable: Production|Electricity|Conventional|Oil PPT
+#     ecoinvent alias:
+#       name: electricity production, oil
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  coal_gas:
-    production volume:
-      variable: Production|Electricity|Conventional|Coal gas
-    ecoinvent alias:
-      name: treatment of coal gas, in power plant
-      reference product: electricity, high voltage
-      exists in original database: True
+#   coal_gas:
+#     production volume:
+#       variable: Production|Electricity|Conventional|Coal gas
+#     ecoinvent alias:
+#       name: treatment of coal gas, in power plant
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  electrolysis_hydrogen:
-    production volume:
-      variable: Production|Gaseous fuel|Hydrogen|Domestic|Electrolysis
-    efficiency:
-      - variable: Efficiency|Gaseous fuel|Hydrogen|Domestic|Electrolysis
-        includes:
-          technosphere:
-            - electricity
-    ecoinvent alias:
-        name: hydrogen production, gaseous, 30 bar, from PEM electrolysis, from grid electricity, domestic, PATHS2050
-        reference product: hydrogen, gaseous, 30 bar
-        exists in original database: True
+#   electrolysis_hydrogen:
+#     production volume:
+#       variable: Production|Gaseous fuel|Hydrogen|Domestic|Electrolysis
+#     efficiency:
+#       - variable: Efficiency|Gaseous fuel|Hydrogen|Domestic|Electrolysis
+#         includes:
+#           technosphere:
+#             - electricity
+#     ecoinvent alias:
+#         name: hydrogen production, gaseous, 30 bar, from PEM electrolysis, from grid electricity, domestic, PATHS2050
+#         reference product: hydrogen, gaseous, 30 bar
+#         exists in original database: True
 
-  nuclear:
-    production volume:
-      variable: Production|Electricity|Nuclear|Boiling water reactor
-    ecoinvent alias:
-      name: electricity production, nuclear, pressure water reactor
-      reference product: electricity, high voltage
-      exists in original database: True
+#   nuclear:
+#     production volume:
+#       variable: Production|Electricity|Nuclear|Boiling water reactor
+#     ecoinvent alias:
+#       name: electricity production, nuclear, pressure water reactor
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
- neighbors_import:
-    production volume:
-      variable: Production|Electricity|Neighbor countries|Import
-    ecoinvent alias:
-      name: market group for electricity, high voltage
-      reference product: electricity, high voltage
-      exists in original database: True
+#  neighbors_import:
+#     production volume:
+#       variable: Production|Electricity|Neighbor countries|Import
+#     ecoinvent alias:
+#       name: market group for electricity, high voltage
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  hydro_run_of_river:
-    production volume:
-      variable: Production|Electricity|Run-of-river hydro
-    ecoinvent alias:
-      name: electricity production, hydro, pumped storage
-      reference product: electricity, high voltage
-      exists in original database: True
+#   hydro_run_of_river:
+#     production volume:
+#       variable: Production|Electricity|Run-of-river hydro
+#     ecoinvent alias:
+#       name: electricity production, hydro, pumped storage
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  hydro_reservoir:
-    production volume:
-      variable: Production|Electricity|Reservoir
-    ecoinvent alias:
-      name: electricity production, hydro, run-of-river
-      reference product: electricity, high voltage
-      exists in original database: True
+#   hydro_reservoir:
+#     production volume:
+#       variable: Production|Electricity|Reservoir
+#     ecoinvent alias:
+#       name: electricity production, hydro, run-of-river
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  pv_570kWp:
-    production volume:
-      variable: Production|Electricity|Renewable|Photovoltaic|570kWp open ground
-    ecoinvent alias:
-      name: electricity production, photovoltaic, 570kWp open ground installation, multi-Si
-      reference product: electricity, low voltage
-      exists in original database: True
+#   pv_570kWp:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Photovoltaic|570kWp open ground
+#     ecoinvent alias:
+#       name: electricity production, photovoltaic, 570kWp open ground installation, multi-Si
+#       reference product: electricity, low voltage
+#       exists in original database: True
 
-  pv_3kWp_single:
-    production volume:
-      variable: Production|Electricity|Renewable|Photovoltaic|3kWp single-Si
-    ecoinvent alias:
-      name: electricity production, photovoltaic, 3kWp slanted-roof installation, multi-Si, panel, mounted
-      reference product: electricity, low voltage
-      exists in original database: True
+#   pv_3kWp_single:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Photovoltaic|3kWp single-Si
+#     ecoinvent alias:
+#       name: electricity production, photovoltaic, 3kWp slanted-roof installation, multi-Si, panel, mounted
+#       reference product: electricity, low voltage
+#       exists in original database: True
 
-  pv_3kWp_multi:
-    production volume:
-      variable: Production|Electricity|Renewable|Photovoltaic|3kWp multi-Si
-    ecoinvent alias:
-      name: electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted
-      reference product: electricity, low voltage
-      exists in original database: True
+#   pv_3kWp_multi:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Photovoltaic|3kWp multi-Si
+#     ecoinvent alias:
+#       name: electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted
+#       reference product: electricity, low voltage
+#       exists in original database: True
 
-  wind_offshore:
-    production volume:
-      variable: Production|Electricity|Renewable|Wind turbines|Offshore
-    ecoinvent alias:
-      name: electricity production, wind, 1-3MW turbine, offshore
-      reference product: electricity, high voltage
-      exists in original database: True
+#   wind_offshore:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Wind turbines|Offshore
+#     ecoinvent alias:
+#       name: electricity production, wind, 1-3MW turbine, offshore
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  wind_on_1-3:
-    production volume:
-      variable: Production|Electricity|Renewable|Wind turbines|Onshore|1-3MW
-    ecoinvent alias:
-      name: electricity production, wind, 1-3MW turbine, onshore
-      reference product: electricity, high voltage
-      exists in original database: True
+#   wind_on_1-3:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Wind turbines|Onshore|1-3MW
+#     ecoinvent alias:
+#       name: electricity production, wind, 1-3MW turbine, onshore
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  wind_on_1MW:
-    production volume:
-      variable: Production|Electricity|Renewable|Wind turbines|Onshore|<1MW
-    ecoinvent alias:
-      name: electricity production, wind, <1MW turbine, onshore
-      reference product: electricity, high voltage
-      exists in original database: True
+#   wind_on_1MW:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Wind turbines|Onshore|<1MW
+#     ecoinvent alias:
+#       name: electricity production, wind, <1MW turbine, onshore
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  wind_on_3MW:
-    production volume:
-      variable: Production|Electricity|Renewable|Wind turbines|Onshore|>3MW
-    ecoinvent alias:
-      name: electricity production, wind, >3MW turbine, onshore
-      reference product: electricity, high voltage
-      exists in original database: True
+#   wind_on_3MW:
+#     production volume:
+#       variable: Production|Electricity|Renewable|Wind turbines|Onshore|>3MW
+#     ecoinvent alias:
+#       name: electricity production, wind, >3MW turbine, onshore
+#       reference product: electricity, high voltage
+#       exists in original database: True
 
-  medium_to_high:
-    production volume:
-      variable: Production|Electricity|Medium to high
-    ecoinvent alias:
-      name: market for electricity, high voltage, PATHS
-      reference product: electricity, high voltage
-      exists in original database: False
-      new dataset: True
+#   medium_to_high:
+#     production volume:
+#       variable: Production|Electricity|Medium to high
+#     ecoinvent alias:
+#       name: market for electricity, high voltage, PATHS
+#       reference product: electricity, high voltage
+#       exists in original database: False
+#       new dataset: True
 
-  low_to_medium:
-    production volume:
-      variable: Production|Electricity|Low to medium
-    ecoinvent alias:
-      name: market for electricity, medium voltage, PATHS2050
-      reference product: electricity, medium voltage
-      exists in original database: False
-      new dataset: True
+#   low_to_medium:
+#     production volume:
+#       variable: Production|Electricity|Low to medium
+#     ecoinvent alias:
+#       name: market for electricity, medium voltage, PATHS2050
+#       reference product: electricity, medium voltage
+#       exists in original database: False
+#       new dataset: True
       
-markets:
-  - name: market for electricity, high voltage, PATHS2050
-    reference product: electricity, high voltage
-    unit: kilowatt hour
-    includes:
-      - biogas
-      - biomass
-      - bagasse
-      - biowaste
-      - blast_furnace
-      - coal_chp
-      - natural_gas_chp_400
-      - natural_gas_chp_100
-      - natural_gas_ppt
-      - oil_chp
-      - oil_ppt
-      - coal_gas
-      - electrolysis_hydrogen
-      - nuclear
-      - neighbors_import
-      -	hydro_run_of_river
-      - hydro_reservoir
-      -	wind_offshore
-      - wind_on_1-3
-      -	wind_on_1MW
-      - wind_on_3MW
-      - hydro_run_of_river
+# markets:
+#   - name: market for electricity, high voltage, PATHS2050
+#     reference product: electricity, high voltage
+#     unit: kilowatt hour
+#     includes:
+#       - biogas
+#       - biomass
+#       - bagasse
+#       - biowaste
+#       - blast_furnace
+#       - coal_chp
+#       - natural_gas_chp_400
+#       - natural_gas_chp_100
+#       - natural_gas_ppt
+#       - oil_chp
+#       - oil_ppt
+#       - coal_gas
+#       - electrolysis_hydrogen
+#       - nuclear
+#       - neighbors_import
+#       -	hydro_run_of_river
+#       - hydro_reservoir
+#       -	wind_offshore
+#       - wind_on_1-3
+#       -	wind_on_1MW
+#       - wind_on_3MW
+#       - hydro_run_of_river
 
-    add:
+#     add:
 
-      - name: transmission network construction, electricity, high voltage
-        reference product: transmission network, electricity, high voltage
-        amount: 6.58e-09
+#       - name: transmission network construction, electricity, high voltage
+#         reference product: transmission network, electricity, high voltage
+#         amount: 6.58e-09
 
-      - name: Dinitrogen monoxide
-        categories: air
-        unit: kilogram
-        amount: 5.0e-06
+#       - name: Dinitrogen monoxide
+#         categories: air
+#         unit: kilogram
+#         amount: 5.0e-06
 
-      - name: Ozone
-        categories: air
-        unit: kilogram
-        amount: 4.16e-06
+#       - name: Ozone
+#         categories: air
+#         unit: kilogram
+#         amount: 4.16e-06
 
-    replaces:
-      - name: market for electricity, high voltage
-        product: electricity, high voltage
-        location: BE
+#     replaces:
+#       - name: market for electricity, high voltage
+#         product: electricity, high voltage
+#         location: BE
 
-    replaces in:
-      - location: BE
+#     replaces in:
+#       - location: BE
 
-    except regions:
-      - World
+#     except regions:
+#       - World
 
-  - name: market for electricity, medium voltage, PATHS2050
-    reference product: electricity, medium voltage
-    unit: kilowatt hour
-    includes:
-      - municipal_waste
-      - medium_to_high
+#   - name: market for electricity, medium voltage, PATHS2050
+#     reference product: electricity, medium voltage
+#     unit: kilowatt hour
+#     includes:
+#       - municipal_waste
+#       - medium_to_high
 
-    add:
+#     add:
 
-      - name: market for sulfur hexafluoride, liquid
-        reference product: sulfur hexafluoride, liquid
-        amount: 5.4e-08
+#       - name: market for sulfur hexafluoride, liquid
+#         reference product: sulfur hexafluoride, liquid
+#         amount: 5.4e-08
 
-      - name: transmission network construction, electricity, medium voltage
-        reference product: transmission network, electricity, medium voltage
-        amount: 1.86e-08
+#       - name: transmission network construction, electricity, medium voltage
+#         reference product: transmission network, electricity, medium voltage
+#         amount: 1.86e-08
 
-      - name: Sulfur hexafluoride
-        categories: air
-        unit: kilogram
-        amount: 5.4e-08
+#       - name: Sulfur hexafluoride
+#         categories: air
+#         unit: kilogram
+#         amount: 5.4e-08
 
-    efficiency:
-      - variable: Transmission losses|Electricity|Medium to high
+#     efficiency:
+#       - variable: Transmission losses|Electricity|Medium to high
 
-    replaces:
-      - name: market for electricity, medium voltage
-        product: electricity, medium voltage
-        location: BE
+#     replaces:
+#       - name: market for electricity, medium voltage
+#         product: electricity, medium voltage
+#         location: BE
 
-    replaces in:
-      - location: BE
+#     replaces in:
+#       - location: BE
 
-    except regions:
-      - World
+#     except regions:
+#       - World
 
-  - name: market for electricity, low voltage, PATHS2050
-    reference product: electricity, low voltage
-    unit: kilowatt hour
-    includes:
-      - pv_570kWp
-      - pv_3kWp_single
-      - pv_3kWp_multi
-      - low_to_medium
+#   - name: market for electricity, low voltage, PATHS2050
+#     reference product: electricity, low voltage
+#     unit: kilowatt hour
+#     includes:
+#       - pv_570kWp
+#       - pv_3kWp_single
+#       - pv_3kWp_multi
+#       - low_to_medium
 
-    add:
-      - name: market for sulfur hexafluoride, liquid
-        reference product: sulfur hexafluoride, liquid
-        amount: 2.99e-09
+#     add:
+#       - name: market for sulfur hexafluoride, liquid
+#         reference product: sulfur hexafluoride, liquid
+#         amount: 2.99e-09
 
-      - name: distribution network construction, electricity, low voltage
-        reference product: distribution network, electricity, low voltage
-        amount: 8.74e-08
+#       - name: distribution network construction, electricity, low voltage
+#         reference product: distribution network, electricity, low voltage
+#         amount: 8.74e-08
 
-      - name: Sulfur hexafluoride
-        categories: air
-        unit: kilogram
-        amount: 2.99e-09
+#       - name: Sulfur hexafluoride
+#         categories: air
+#         unit: kilogram
+#         amount: 2.99e-09
 
-    efficiency:
-      - variable: Distribution losses|Electricity|Low to medium
+#     efficiency:
+#       - variable: Distribution losses|Electricity|Low to medium
 
-    replaces:
-      - name: market for electricity, low voltage
-        product: electricity, low voltage
-        location: BE
+#     replaces:
+#       - name: market for electricity, low voltage
+#         product: electricity, low voltage
+#         location: BE
 
-    replaces in:
-      - location: BE
+#     replaces in:
+#       - location: BE
 
-    except regions:
-      - World
+#     except regions:
+#       - World
