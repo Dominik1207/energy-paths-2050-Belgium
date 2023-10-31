@@ -1,9 +1,6 @@
 # Configuration file for custom scenarios for `premise`
 # Energy outlook PATHS2050
 # https://perspective2050.energyville.be/
-
----
-
 production pathways:
   biogas:
     production volume:
