@@ -1,0 +1,175 @@
+model,pathway,scenario,region,variables,unit,2020,2025,2030,2035,2040,2045,2050
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Biogas,GWh/year,0,0,0,0,0,0,0
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Biomass,GWh/year,1148,3379,3150,3118,3205,4347,4307
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Bagasse,GWh/year,1917,0,0,0,0,0,0
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Biowaste,GWh/year,15,1036,1492,2175,2835,3503,4187
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Conventional|Blast-furnace,GWh/year,2265,2178,2202,2193,844,137,0
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Conventional|Coal CHP,GWh/year,56,56,26,1,1,0,0
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,51,51,51,51,48,51,53
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Conventional|Municipal waste incineration,GWh/year,0,252,10,5,3,1,0
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Conventional|Natural gas CHP|400MW electrical,GWh/year,926,1616,2107,1381,621,555,185
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Conventional|Natural gas CHP|100MW electrical,GWh/year,2160,3771,4916,2848,1411,1277,431
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Conventional|Natural gas PPT,GWh/year,20726,4282,14426,13092,10790,5745,0
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,564,1233,474,70,0,0,0
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Conventional|Oil PPT,GWh/year,801,0,81,22,28,0,0
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Conventional|Coal gas,GWh/year,73,978,942,608,348,309,0
+remind,SSP2-NPi,RUN 32,BE,Production|Gaseous fuel|Hydrogen|Domestic|Electrolysis,GWh/year,0,0,0,0,328,468,13880
+remind,SSP2-NPi,RUN 32,BE,Efficiency|Gaseous fuel|Hydrogen|Domestic|Electrolysis,%,61,63,66,68,70,73,75
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Nuclear|Boiling water reactor,GWh/year,41459,14151,12687,13522,0,0,0
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Import,GWh/year,3763,16806,7469,6681,21678,23175,31680
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Run-of-river hydro,GWh/year,72,91,91,91,91,91,91
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Reservoir,GWh/year,230,287,287,28711,287,287,287
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Photovoltaic|570kWp open ground,GWh/year,1479,5683,6194,10279,13458,15448,22921
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Photovoltaic|3kWp single-Si,GWh/year,2958,11366,12389,20558,26916,30895,45843
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Photovoltaic|3kWp multi-Si,GWh/year,1479,5683,6194,10279,13458,15448,22921
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Wind turbines|Offshore,GWh/year,8015,16097,16383,17139,28582,28608,28608
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Wind turbines|Onshore|1-3MW,GWh/year,4356,6909,8922,16066,21984,28370,32784
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Wind turbines|Onshore|<1MW,GWh/year,100,159,205,369,505,652,754
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Renewable|Wind turbines|Onshore|>3MW,GWh/year,501,794,1026,1847,2527,3261,3768
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Medium to high,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-NPi,RUN 32,BE,Production|Electricity|Low to medium,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Biogas,GWh/year,0,0,0,0,0,0,0
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Biomass,GWh/year,1148,3128,2895,2859,2751,3319,4308
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Bagasse,GWh/year,1917,0,0,0,0,0,0
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Biowaste,GWh/year,15,1036,1489,2174,2810,3423,4125
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Conventional|Blast-furnace,GWh/year,2265,2175,2195,1517,502,126,0
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Conventional|Coal CHP,GWh/year,56,56,1,1,2,0,0
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,51,51,50,45,48,51,53
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Conventional|Municipal waste incineration,GWh/year,0,0,10,7,3,2,0
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Conventional|Natural gas CHP|400MW electrical,GWh/year,977,1663,1455,954,372,288,185
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Conventional|Natural gas CHP|100MW electrical,GWh/year,2280,3881,3396,2225,867,673,431
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Conventional|Natural gas PPT,GWh/year,20726,4460,7119,4025,2856,533,0
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,564,1233,470,53,0,0,0
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Conventional|Oil PPT,GWh/year,801,0,81,41,28,0,0
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Conventional|Coal gas,GWh/year,73,0,0,0,0,0,0
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Gaseous fuel|Hydrogen|Domestic|Electrolysis,GWh/year,0,0,0,0,0,0,0
+remind,SSP2-NPi,RUN 32 ELC,BE,Efficiency|Gaseous fuel|Hydrogen|Domestic|Electrolysis,%,61,63,66,68,70,73,75
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Nuclear|Boiling water reactor,GWh/year,41459,14151,12687,13522,0,6901,41863
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Import,GWh/year,3577,17503,5662,3051,9819,8270,9826
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Run-of-river hydro,GWh/year,72,91,91,91,91,91,91
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Reservoir,GWh/year,230,287,287,28711,287,287,287
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Photovoltaic|570kWp open ground,GWh/year,1479,5536,5328,8100,7850,7784,9640
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Photovoltaic|3kWp single-Si,GWh/year,2958,11072,10657,16200,15699,15568,19281
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Photovoltaic|3kWp multi-Si,GWh/year,1479,5536,5328,8100,7850,7784,9640
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Wind turbines|Offshore,GWh/year,8015,16097,35118,54608,84787,99544,112220
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Wind turbines|Onshore|1-3MW,GWh/year,4356,6909,8927,16066,21843,21599,21599
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Wind turbines|Onshore|<1MW,GWh/year,100,159,205,369,502,497,497
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Renewable|Wind turbines|Onshore|>3MW,GWh/year,501,794,1026,1847,2511,2483,2483
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Medium to high,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-NPi,RUN 32 ELC,BE,Production|Electricity|Low to medium,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Biogas,GWh/year,0,0,0,0,0,0,0
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Biomass,GWh/year,1148,3703,3458,3601,3184,3179,4288
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Bagasse,GWh/year,1917,0,0,0,0,0,0
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Biowaste,GWh/year,15,1036,1492,2178,2843,3520,4227
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Conventional|Blast-furnace,GWh/year,2265,2179,2197,2192,131,131,0
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Conventional|Coal CHP,GWh/year,56,56,18,1,0,0,0
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,51,51,51,50,48,51,53
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Conventional|Municipal waste incineration,GWh/year,0,251,10,5,3,1,0
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Conventional|Natural gas CHP|400MW electrical,GWh/year,963,1821,2328,1643,541,491,185
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Conventional|Natural gas CHP|100MW electrical,GWh/year,2248,4248,5431,3833,1262,1145,431
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Conventional|Natural gas PPT,GWh/year,20726,4126,12157,7936,5872,631,0
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,564,1233,475,75,0,0,0
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Conventional|Oil PPT,GWh/year,801,0,81,37,27,0,0
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Conventional|Coal gas,GWh/year,73,0,0,0,0,0,0
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Gaseous fuel|Hydrogen|Domestic|Electrolysis,GWh/year,0,0,0,622,9536,9855,27849
+remind,SSP2-NPi,RUN 32 MOL,BE,Efficiency|Gaseous fuel|Hydrogen|Domestic|Electrolysis,%,61,63,66,68,70,73,75
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Nuclear|Boiling water reactor,GWh/year,41459,14151,12687,13522,0,0,0
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Import,GWh/year,3666,16188,7694,8593,20630,21979,26802
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Run-of-river hydro,GWh/year,72,91,91,91,91,91,91
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Reservoir,GWh/year,230,287,287,28711,287,287,287
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Photovoltaic|570kWp open ground,GWh/year,1479,5630,6041,8973,11831,14575,20843
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Photovoltaic|3kWp single-Si,GWh/year,2958,11260,12082,17946,23663,29151,41686
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Photovoltaic|3kWp multi-Si,GWh/year,1479,5630,6041,8973,11831,14575,20843
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Wind turbines|Offshore,GWh/year,8015,16097,16383,17139,28582,28608,28608
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Wind turbines|Onshore|1-3MW,GWh/year,4356,6909,8925,16066,21984,28370,30671
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Wind turbines|Onshore|<1MW,GWh/year,100,159,205,369,505,652,705
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Renewable|Wind turbines|Onshore|>3MW,GWh/year,501,794,1026,1847,2527,3261,3525
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Medium to high,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-NPi,RUN 32 MOL,BE,Production|Electricity|Low to medium,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Biogas,GWh/year,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Biomass,GWh/year,1148,3379,3150,3118,3205,4347,4307
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Bagasse,GWh/year,1917,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Biowaste,GWh/year,15,1036,1492,2175,2835,3503,4187
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Conventional|Blast-furnace,GWh/year,2265,2178,2202,2193,844,137,0
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Conventional|Coal CHP,GWh/year,56,56,26,1,1,0,0
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,51,51,51,51,48,51,53
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Conventional|Municipal waste incineration,GWh/year,0,252,10,5,3,1,0
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Conventional|Natural gas CHP|400MW electrical,GWh/year,926,1616,2107,1381,621,555,185
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Conventional|Natural gas CHP|100MW electrical,GWh/year,2160,3771,4916,2848,1411,1277,431
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Conventional|Natural gas PPT,GWh/year,20726,4282,14426,13092,10790,5745,0
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,564,1233,474,70,0,0,0
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Conventional|Oil PPT,GWh/year,801,0,81,22,28,0,0
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Conventional|Coal gas,GWh/year,73,978,942,608,348,309,0
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Gaseous fuel|Hydrogen|Domestic|Electrolysis,GWh/year,0,0,0,0,328,468,13880
+remind,SSP2-PkBudg1150,RUN 32,BE,Efficiency|Gaseous fuel|Hydrogen|Domestic|Electrolysis,%,61,63,66,68,70,73,75
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Nuclear|Boiling water reactor,GWh/year,41459,14151,12687,13522,0,0,0
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Import,GWh/year,3763,16806,7469,6681,21678,23175,31680
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Run-of-river hydro,GWh/year,72,91,91,91,91,91,91
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Reservoir,GWh/year,230,287,287,28711,287,287,287
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Photovoltaic|570kWp open ground,GWh/year,1479,5683,6194,10279,13458,15448,22921
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Photovoltaic|3kWp single-Si,GWh/year,2958,11366,12389,20558,26916,30895,45843
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Photovoltaic|3kWp multi-Si,GWh/year,1479,5683,6194,10279,13458,15448,22921
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Wind turbines|Offshore,GWh/year,8015,16097,16383,17139,28582,28608,28608
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Wind turbines|Onshore|1-3MW,GWh/year,4356,6909,8922,16066,21984,28370,32784
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Wind turbines|Onshore|<1MW,GWh/year,100,159,205,369,505,652,754
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Renewable|Wind turbines|Onshore|>3MW,GWh/year,501,794,1026,1847,2527,3261,3768
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Medium to high,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,RUN 32,BE,Production|Electricity|Low to medium,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Biogas,GWh/year,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Biomass,GWh/year,1148,3128,2895,2859,2751,3319,4308
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Bagasse,GWh/year,1917,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Biowaste,GWh/year,15,1036,1489,2174,2810,3423,4125
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Conventional|Blast-furnace,GWh/year,2265,2175,2195,1517,502,126,0
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Conventional|Coal CHP,GWh/year,56,56,1,1,2,0,0
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,51,51,50,45,48,51,53
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Conventional|Municipal waste incineration,GWh/year,0,0,10,7,3,2,0
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Conventional|Natural gas CHP|400MW electrical,GWh/year,977,1663,1455,954,372,288,185
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Conventional|Natural gas CHP|100MW electrical,GWh/year,2280,3881,3396,2225,867,673,431
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Conventional|Natural gas PPT,GWh/year,20726,4460,7119,4025,2856,533,0
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,564,1233,470,53,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Conventional|Oil PPT,GWh/year,801,0,81,41,28,0,0
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Conventional|Coal gas,GWh/year,73,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Gaseous fuel|Hydrogen|Domestic|Electrolysis,GWh/year,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Efficiency|Gaseous fuel|Hydrogen|Domestic|Electrolysis,%,61,63,66,68,70,73,75
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Nuclear|Boiling water reactor,GWh/year,41459,14151,12687,13522,0,6901,41863
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Import,GWh/year,3577,17503,5662,3051,9819,8270,9826
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Run-of-river hydro,GWh/year,72,91,91,91,91,91,91
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Reservoir,GWh/year,230,287,287,28711,287,287,287
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Photovoltaic|570kWp open ground,GWh/year,1479,5536,5328,8100,7850,7784,9640
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Photovoltaic|3kWp single-Si,GWh/year,2958,11072,10657,16200,15699,15568,19281
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Photovoltaic|3kWp multi-Si,GWh/year,1479,5536,5328,8100,7850,7784,9640
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Wind turbines|Offshore,GWh/year,8015,16097,35118,54608,84787,99544,112220
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Wind turbines|Onshore|1-3MW,GWh/year,4356,6909,8927,16066,21843,21599,21599
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Wind turbines|Onshore|<1MW,GWh/year,100,159,205,369,502,497,497
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Renewable|Wind turbines|Onshore|>3MW,GWh/year,501,794,1026,1847,2511,2483,2483
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Medium to high,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,RUN 32 ELC,BE,Production|Electricity|Low to medium,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Biogas,GWh/year,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Biomass,GWh/year,1148,3703,3458,3601,3184,3179,4288
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Bagasse,GWh/year,1917,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Biowaste,GWh/year,15,1036,1492,2178,2843,3520,4227
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Conventional|Blast-furnace,GWh/year,2265,2179,2197,2192,131,131,0
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Conventional|Coal CHP,GWh/year,56,56,18,1,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,51,51,51,50,48,51,53
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Conventional|Municipal waste incineration,GWh/year,0,251,10,5,3,1,0
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Conventional|Natural gas CHP|400MW electrical,GWh/year,963,1821,2328,1643,541,491,185
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Conventional|Natural gas CHP|100MW electrical,GWh/year,2248,4248,5431,3833,1262,1145,431
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Conventional|Natural gas PPT,GWh/year,20726,4126,12157,7936,5872,631,0
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Conventional|Oil CHP,GWh/year,564,1233,475,75,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Conventional|Oil PPT,GWh/year,801,0,81,37,27,0,0
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Conventional|Coal gas,GWh/year,73,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Gaseous fuel|Hydrogen|Domestic|Electrolysis,GWh/year,0,0,0,622,9536,9855,27849
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Efficiency|Gaseous fuel|Hydrogen|Domestic|Electrolysis,%,61,63,66,68,70,73,75
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Nuclear|Boiling water reactor,GWh/year,41459,14151,12687,13522,0,0,0
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Import,GWh/year,3666,16188,7694,8593,20630,21979,26802
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Run-of-river hydro,GWh/year,72,91,91,91,91,91,91
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Reservoir,GWh/year,230,287,287,28711,287,287,287
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Photovoltaic|570kWp open ground,GWh/year,1479,5630,6041,8973,11831,14575,20843
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Photovoltaic|3kWp single-Si,GWh/year,2958,11260,12082,17946,23663,29151,41686
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Photovoltaic|3kWp multi-Si,GWh/year,1479,5630,6041,8973,11831,14575,20843
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Wind turbines|Offshore,GWh/year,8015,16097,16383,17139,28582,28608,28608
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Wind turbines|Onshore|1-3MW,GWh/year,4356,6909,8925,16066,21984,28370,30671
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Wind turbines|Onshore|<1MW,GWh/year,100,159,205,369,505,652,705
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Renewable|Wind turbines|Onshore|>3MW,GWh/year,501,794,1026,1847,2527,3261,3525
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Medium to high,GWh/year,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,RUN 32 MOL,BE,Production|Electricity|Low to medium,GWh/year,1,1,1,1,1,1,1
