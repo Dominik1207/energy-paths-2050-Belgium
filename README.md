@@ -9,16 +9,11 @@ The scenarios:
 
 ## 🔀 Scenarios
 
-### Central
-Balanced pathway using a mix of electrification, clean fuels (e.g. hydrogen), and carbon capture.
+**Central**: Balanced pathway using a mix of electrification, clean fuels (e.g. hydrogen), and carbon capture.
 
-### Electrification
-Stronger electrification with:
-- large offshore wind expansion  
-- optional new nuclear (SMRs)  
+**Electrification**: Stronger electrification with large offshore wind expansion and optional new nuclear (SMRs)
 
-### Clean Molecules
-Higher reliance on imported synthetic fuels (e.g. hydrogen), with limited CO₂ storage capacity.
+**Clean Molecules**: Higher reliance on imported synthetic fuels (e.g. hydrogen), with limited CO₂ storage capacity.
 
 ## 📈 Key insights
 
