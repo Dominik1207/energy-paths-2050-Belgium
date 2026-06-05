@@ -1,7 +1,6 @@
 # 🇧🇪 Belgium Energy Scenario – PATHS2050 (PREMISE)
 
-This repository contains a **user-defined prospective energy scenario for Belgium** implemented in the https://github.com/polca/premise framework.  
-It is based on the Belgian **PATHS2050 energy transition scenarios** and enables their integration into prospective life cycle assessment (pLCA).
+This repository contains a **user-defined prospective energy scenario for Belgium** implemented in the https://github.com/polca/premise framework. It is based on the Belgian **PATHS2050 energy transition scenarios** and enables their integration into prospective life cycle assessment (pLCA).
 
 ---
 
@@ -107,7 +106,7 @@ Please add a license (e.g., MIT, GPL-3.0) to clarify reuse conditions.
 
 ## 👤 Author
 
-Dominik Huber
+Dominik Huber//
 Anne Van Den Oever
 
 ---
