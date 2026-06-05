@@ -1,18 +1,11 @@
 # 🇧🇪 Belgium Energy Scenario – PATHS2050 (PREMISE)
 
-This repository contains a **user-defined prospective energy scenario for Belgium** implemented in the https://github.com/polca/premise framework. It is based on the Belgian **PATHS2050 energy transition scenarios** and enables their integration into prospective life cycle assessment (pLCA).
-
-
-## ⚡ PATHS2050 in a nutshell
-
-PATHS2050 is an energy system study developed by **EnergyVille**, based on the **TIMES-Be model**, which computes **cost-optimal pathways to a near carbon-neutral Belgium by 2050**.
+This repository contains a **user-defined prospective energy scenario for Belgium** implemented in the https://github.com/polca/premise framework. It is based on the Belgian **PATHS2050 energy transition scenarios** and enables their integration into prospective life cycle assessment (pLCA). PATHS2050 is an energy system study developed by **EnergyVille**, based on the **TIMES-Be model**, which computes **cost-optimal pathways to a near carbon-neutral Belgium by 2050**.
 
 The scenarios:
 - are **not forecasts**, but exploratory pathways  
 - enforce **net-zero emissions by 2050** (with small residual emissions)  
 - differ in technology choices and resource availability  
-
----
 
 ## 🔀 Scenarios
 
@@ -26,8 +19,6 @@ Stronger electrification with:
 
 ### Clean Molecules
 Higher reliance on imported synthetic fuels (e.g. hydrogen), with limited CO₂ storage capacity.
-
----
 
 ## 📈 Key insights
 
