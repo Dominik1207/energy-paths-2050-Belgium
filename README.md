@@ -124,10 +124,7 @@ A customized Belgian electricity mix was developed based on PATHS2050 projection
 
 This electricity mix was used in the following publication:
 
-Huber, D. et al. (2024)  
-Powering the circular future: Climate change and economic perspectives on second-life batteries in the Belgian context  
-Journal of Industrial Ecology, 28(6), 1940–1951  
-https://doi.org/10.1111/jiec.13566  
+Huber, D. et al. (2024). *Powering the circular future: Climate change and economic perspectives on second-life batteries in the Belgian context.* Journal of Industrial Ecology, 28(6), 1940–1951. doi: https://doi.org/10.1111/jiec.13566  
 
 Key contributions:
 - Time-dependent electricity mix evolution for Belgium  
