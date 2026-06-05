@@ -3,103 +3,38 @@
 This repository contains a **user-defined prospective energy scenario for Belgium** implemented in the https://github.com/polca/premise framework. It is based on the Belgian **PATHS2050 energy transition scenarios** and enables their integration into prospective life cycle assessment (pLCA).
 
 
-## ⚡ About PATHS2050 – The Power of Perspective
+## ⚡ PATHS2050 in a nutshell
 
-The PATHS2050 platform is a large-scale energy system analysis developed by **EnergyVille**, involving more than 200 researchers. It aims to answer three key questions:
+PATHS2050 is an energy system study developed by **EnergyVille**, based on the **TIMES-Be model**, which computes **cost-optimal pathways to a near carbon-neutral Belgium by 2050**.
 
-- What does the current Belgian energy system look like?
-- What is required to reach a **climate-neutral Belgium by 2050**?
-- Which **technological and policy pathways** can enable this transition?
-
-To address these questions, EnergyVille developed the **TIMES-Be model**, a techno-economic optimization model that:
-
-- Simulates the Belgian energy system from today to 2050  
-- Minimizes total system costs while meeting energy service demand  
-- Adapts to evolving **technology, policy, and resource constraints**  
-- Produces **cost-optimal transition pathways** rather than forecasts  
-
-All scenarios enforce **net-zero greenhouse gas emissions by 2050**, while allowing for:
-- residual emissions (~2 Mt CO₂)  
-- carbon removal technologies (e.g. CCS, DAC, BECCS)  
+The scenarios:
+- are **not forecasts**, but exploratory pathways  
+- enforce **net-zero emissions by 2050** (with small residual emissions)  
+- differ in technology choices and resource availability  
 
 ---
 
-## 🔀 Scenario Design
+## 🔀 Scenarios
 
-PATHS2050 explores three internally consistent scenarios, each representing a **different strategic pathway toward decarbonization**.
+### Central
+Balanced pathway using a mix of electrification, clean fuels (e.g. hydrogen), and carbon capture.
 
-### 1. Central Scenario (Balanced Transition)
+### Electrification
+Stronger electrification with:
+- large offshore wind expansion  
+- optional new nuclear (SMRs)  
 
-A **technology-neutral pathway** with balanced deployment of:
-
-- Energy efficiency improvements  
-- Electrification  
-- Clean fuels (hydrogen, synthetic molecules)  
-- Carbon capture and storage (CCS)  
-
-Key characteristics:
-- Final energy demand decreases by ~1/3  
-- Electricity demand roughly doubles  
-- Clean molecules represent ~11% of final energy demand in 2050  
-- CCS plays a major role in industry and energy supply  
+### Clean Molecules
+Higher reliance on imported synthetic fuels (e.g. hydrogen), with limited CO₂ storage capacity.
 
 ---
 
-### 2. Electrification Scenario (Power-driven Transition)
+## 📈 Key insights
 
-A pathway emphasizing **strong electrification and expansion of low-carbon electricity supply**.
-
-Additional assumptions:
-- +16 GW offshore wind capacity (North Sea)  
-- Deployment of **Small Modular Reactors (SMRs)** by 2050  
-
-Key characteristics:
-- Electricity demand increases by factor ~2.3 (vs 2020)  
-- Faster emissions reductions, especially in:
-  - transport  
-  - buildings  
-  - power sector  
-- Lowest total system cost among scenarios by 2050  
-- Reduced reliance on imported fuels  
-
----
-
-### 3. Clean Molecules Scenario (Fuel-based Transition)
-
-A pathway relying more heavily on **imported synthetic fuels** (e.g. hydrogen and derivatives).
-
-Additional assumptions:
-- Low-cost access to clean molecules  
-- Limited availability of CO₂ storage (max ~5 Mt/year)  
-
-Key characteristics:
-- Higher role of hydrogen and synthetic fuels (~14% in 2050)  
-- Strong continued dependence on electricity  
-- Higher short-term emissions in industry (2030–2040)  
-- Similar long-term decarbonization outcome  
-
----
-
-## 📈 Cross-cutting Insights
-
-Across all scenarios:
-
-- Final energy demand decreases by ~33%  
-- Electricity demand **more than doubles**  
-- Fossil fuels are phased out by 2050  
-- Net-zero is achieved with residual emissions requiring removal  
-
-Trade-offs exist between:
-- electrification  
-- fuel imports  
-- infrastructure investments  
-- system costs  
-
-Estimated additional annual system costs:
-- €11.7–21 billion by 2050 (~2–4% of GDP)
-
----
-
+- Final energy demand decreases (~−33%)  
+- Electricity demand more than doubles  
+- Fossil fuels are largely phased out  
+- Different trade-offs between electrification, fuels, and costs  
 
 ---
 
