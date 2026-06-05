@@ -27,8 +27,6 @@ Higher reliance on imported synthetic fuels (e.g. hydrogen), with limited CO₂ 
 - Fossil fuels are largely phased out  
 - Different trade-offs between electrification, fuels, and costs  
 
----
-
 ## 📊 Overview
 
 The goal of this repository is to generate **future background databases** reflecting Belgium’s energy transition pathways up to 2050.
@@ -39,16 +37,12 @@ The implementation builds on:
 - The **premise-community-scenarios** approach  
   https://github.com/premise-community-scenarios/energy-perspective-2050-switzerland
 
----
-
 ## ⚙️ Features
 
 - Integration of **Belgian national energy scenarios** into *premise*
 - Custom **electricity mix evolution** over time
 - Scenario-dependent **background database modifications**
 - Compatibility with **prospective Life Cycle Assessment (pLCA)** workflows
-
----
 
 ## 📁 Repository Structure
 
@@ -63,8 +57,6 @@ The implementation builds on:
 ├── datapackage.json       # Data package definition  
 └── README.md  
 
----
-
 ## Getting Started
 
 ### 1. Requirements
@@ -77,8 +69,6 @@ The implementation builds on:
 Install premise:
 
 pip install premise
-
----
 
 ### 2. Running the scenario
 
@@ -93,8 +83,6 @@ This notebook:
 4. Applies transformations (e.g., electricity mixes)
 
 Note: The function update_all() has been modified for this implementation.
-
----
 
 ## Electricity Mix
 
@@ -112,8 +100,6 @@ Key contributions:
 - Integration into prospective LCA databases  
 - Application to second-life battery systems  
 
----
-
 ## Contributing
 
 Contributions, suggestions, and improvements are welcome.
@@ -121,16 +107,11 @@ Contributions, suggestions, and improvements are welcome.
 If you would like to reference or include this scenario in  
 premise-community-scenarios, feel free to open an issue or pull request.
 
-
----
-
 ## Author
 
 Dominik Huber
 
 Anne Van Den Oever
-
----
 
 ## Acknowledgements
 
