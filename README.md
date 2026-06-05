@@ -91,7 +91,7 @@ ndb = NewDatabase(
     ],
     source_db="cutoff391",
     source_version="3.9.1",
-    key="your_ecoinvent_key",
+    key="your_premise_key",
     external_scenarios=[paths2050],
 )
 
