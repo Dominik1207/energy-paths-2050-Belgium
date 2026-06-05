@@ -118,18 +118,12 @@ ndb.write_db_to_brightway(name=[
 - Provide your own ecoinvent `key`  
 ``
 
-## Electricity Mix
+## Use case and application
 
-A customized Belgian electricity mix was developed based on PATHS2050 projections and integrated into the scenario.
-
-This electricity mix was used in the following publication:
+The updated Belgian electricity mix was used to model the use stage of second-life batteries charged in Belgium in the future. The study is published here:
 
 Huber, D. et al. (2024). *Powering the circular future: Climate change and economic perspectives on second-life batteries in the Belgian context.* Journal of Industrial Ecology, 28(6), 1940–1951. doi: https://doi.org/10.1111/jiec.13566  
 
-Key contributions:
-- Time-dependent electricity mix evolution for Belgium  
-- Integration into prospective LCA databases  
-- Application to second-life battery systems  
 
 ## Contributing
 
