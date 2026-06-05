@@ -59,30 +59,64 @@ The implementation builds on:
 
 ## Getting Started
 
-### 1. Requirements
+## 🚀 Usage with premise
 
-- Python (>= 3.9 recommended)
-- premise
-- brightway2
-- numpy, pandas, and standard scientific Python packages
+This repository is designed to be used as an external scenario datapackage in `premise`.
 
-Install premise:
+### Example workflow
 
-pip install premise
+```python
+import bw2data, bw2io
+from premise import NewDatabase
+from datapackage import Package
 
-### 2. Running the scenario
+# Load datapackage (local or remote)
+fp = "path/to/datapackage.json"
+paths2050 = Package(fp)
 
-The main workflow is implemented in:
+# Set your Brightway project
+bw2data.projects.set_current("your_project_name")
 
-PLCA_SLB.ipynb
+# Define scenarios
+ndb = NewDatabase(
+    scenarios=[
+        {"model": "remind", "pathway": "SSP2-NPi", "year": 2023},
+        {"model": "remind", "pathway": "SSP2-NPi", "year": 2032},
+        {"model": "remind", "pathway": "SSP2-NPi", "year": 2044},
+        {"model": "remind", "pathway": "SSP2-NPi", "year": 2047},
+        {"model": "remind", "pathway": "SSP2-PkBudg1150", "year": 2023},
+        {"model": "remind", "pathway": "SSP2-PkBudg1150", "year": 2032},
+        {"model": "remind", "pathway": "SSP2-PkBudg1150", "year": 2044},
+        {"model": "remind", "pathway": "SSP2-PkBudg1150", "year": 2047},
+    ],
+    source_db="cutoff391",
+    source_version="3.9.1",
+    key="your_ecoinvent_key",
+    external_scenarios=[paths2050],
+)
 
-This notebook:
-1. Loads PATHS2050 scenario data  
-2. Configures the Belgian scenario  
-3. Generates prospective databases using premise  
-4. Applies transformations (e.g., electricity mixes)
+# Apply all transformations
+ndb.update_all()
 
-Note: The function update_all() has been modified for this implementation.
+# Write databases
+ndb.write_db_to_brightway(name=[
+    "cutoff_3.9.1_remind_SSP2-NPi_2023",
+    "cutoff_3.9.1_remind_SSP2-NPi_2032",
+    "cutoff_3.9.1_remind_SSP2-NPi_2044",
+    "cutoff_3.9.1_remind_SSP2-NPi_2047",
+    "cutoff_3.9.1_remind_SSP2-PkBudg1150_2023",
+    "cutoff_3.9.1_remind_SSP2-PkBudg1150_2032",
+    "cutoff_3.9.1_remind_SSP2-PkBudg1150_2044",
+    "cutoff_3.9.1_remind_SSP2-PkBudg1150_2047",
+])
+```
+
+### Notes
+
+- Replace `"path/to/datapackage.json"` with your local path or raw GitHub link  
+- Ensure `source_db` matches your Brightway setup  
+- Provide your own ecoinvent `key`  
+``
 
 ## Electricity Mix
 
