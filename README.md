@@ -124,14 +124,6 @@ The updated Belgian electricity mix was used to model the use stage of second-li
 
 Huber, D. et al. (2024). *Powering the circular future: Climate change and economic perspectives on second-life batteries in the Belgian context.* Journal of Industrial Ecology, 28(6), 1940–1951. doi: https://doi.org/10.1111/jiec.13566  
 
-
-## Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-If you would like to reference or include this scenario in  
-premise-community-scenarios, feel free to open an issue or pull request.
-
 ## Author
 
 Dominik Huber
@@ -140,6 +132,6 @@ Anne Van Den Oever
 
 ## Acknowledgements
 
-- EnergyVille / VITO for the PATHS2050 scenarios  
+- EnergyVille / VITO for the exchange and providing the underlying data of the PATHS2050 scenarios  
 - premise developers and community  
 - Contributors to the Swiss reference implementation 
