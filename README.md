@@ -106,7 +106,8 @@ Please add a license (e.g., MIT, GPL-3.0) to clarify reuse conditions.
 
 ## 👤 Author
 
-Dominik Huber··
+Dominik Huber
+
 Anne Van Den Oever
 
 ---
